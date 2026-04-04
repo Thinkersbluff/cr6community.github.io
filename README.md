@@ -1,6 +1,6 @@
 # Creality CR-6 Community Knowledge Base
 
-Welcome on the CR-6 Community website &amp; knowledge base.
+Welcome to the CR-6 Community website &amp; knowledge base.
 
 ## Index
 
