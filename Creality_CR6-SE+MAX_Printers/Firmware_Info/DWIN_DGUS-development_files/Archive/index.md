@@ -1,6 +1,6 @@
 # DWIN DGUS Archive
 
-This page is the website entry point for archived documentation, tools, and assets.
+The files in this section were collected by the original developer of the CR6Community Firmware DWIN_SET.  Many of them are out of date, now, and not all were used at the time, but we keep them here for interest and possible useful references.
 
 ## Archive Sections
 - [docs](docs/)

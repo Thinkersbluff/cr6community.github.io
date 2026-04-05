@@ -1,9 +1,10 @@
 # DWIN DGUS Development Files
 
-This page is the website entry point for archived DWIN DGUS development resources.
+This page is the website entry point for DWIN_SET firmware-related resources.
 
 ## Contents
 - [Archive](Archive/)
+- [Current Set](Current_Set)
 
 ## More
 - [Back to Firmware Info](../)
