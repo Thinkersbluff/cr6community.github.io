@@ -1,4 +1,4 @@
-# Screen (alternative)
+# Alternative Screen
 
 As Creality and DWIN aren't very cooperative to give us some technical details about the printer screen, we searched for other compatible screens.
 
