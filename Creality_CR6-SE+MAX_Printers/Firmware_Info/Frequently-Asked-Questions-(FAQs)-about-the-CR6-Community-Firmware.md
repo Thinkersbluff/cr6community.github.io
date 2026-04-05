@@ -110,10 +110,6 @@ Our Dev @Sebazzz posted this online guide in his blog: [https://damsteen.nl/blog
 
 **Please note**, that due to changes made to both Visual Studio Code and Platformio since that blog was posted:
 
-In the section, "Download source code package", we strongly recommend that you ONLY follow option 2; "Download the Source.zip file from the latest release", which is Release 6.1, except that the files marlin.py and platformio.ini both require changes which have already been incorporated into the files on the CODE page.  
-
-To avoid having to repeat the required modifications to platformio.ini and marlin.py, we recommend that you do download these two specific files and that you use them to replace (overwrite) the older versions of those two files, unpacked from Source.zip:
-* [\platformio.ini](https://github.com/CR6Community/Marlin/blob/extui/platformio.ini)
-* [\buildroot\share\PlatformIO\scripts\marlin.py](https://github.com/CR6Community/Marlin/blob/extui/buildroot/share/PlatformIO/scripts/marlin.py)
+In the section, "Download source code package", you must now follow the instructions in the Download Source.zip option, AND you must download the file Compilable_Source.zip, which has been updated and confirmed to compile with the newer versions of Code and Platformio.
 
 
