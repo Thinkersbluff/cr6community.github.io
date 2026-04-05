@@ -1,0 +1,11 @@
+title: CR6 Community Knowledge Base
+description: CR6 Community website and knowledge base
+remote_theme: pages-themes/midnight@v0.2.0
+baseurl: /cr6community.github.io
+url: https://thinkersbluff.github.io
+
+plugins:
+  - jekyll-remote-theme
+
+readme_index:
+  with_frontmatter: true

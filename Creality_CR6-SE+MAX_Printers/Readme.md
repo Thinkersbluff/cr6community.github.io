@@ -1,8 +1,8 @@
 ## Here, there be "Wisdom"
 This site contains the collective wisdom of our CR6Community members, distilled into "Lessons-Learned, so-far" information nuggets, organized into these categories:
- - [Warnings, Tips and Testimonials](Warnings_Tips_and_Testimonials/)
- - [Firmware-Specific Info](Firmware_Info/)
- - [Hardware-Specific Info](Hardware_Info/)
+ - [Warnings, Tips and Testimonials]({{ "/Creality_CR6-SE+MAX_Printers/Warnings_Tips_and_Testimonials/" | relative_url }})
+ - [Firmware-Specific Info]({{ "/Creality_CR6-SE+MAX_Printers/Firmware_Info/" | relative_url }})
+ - [Hardware-Specific Info]({{ "/Creality_CR6-SE+MAX_Printers/Hardware_Info/" | relative_url }})
 
 ## Looking for "the Community"?
 If you would like to contribute, if you have other questions, or if you are just looking to share and explore ideas, you can find us here on the [CR6 Community Discord](https://discord.gg/X5j7K5FTV3)

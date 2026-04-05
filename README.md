@@ -1,7 +1,10 @@
+---
+title: CR6 Community Knowledge Base
+---
 
 # Welcome to the website &amp; knowledge base for all owners of new and used 3D printers using the CR6Community Firmware!
 
-## Click this heading to enter the [Creality CR6-SE and MAX Printers knowledge base](Creality_CR6-SE+MAX_Printers)
+## Click this heading to enter the [Creality CR6-SE and MAX Printers knowledge base]({{ "/Creality_CR6-SE+MAX_Printers/" | relative_url }})
 
 ---
 ### Note to Anycubic Vyper and other printers aside from the Creality CR6-SE or MAX:  

@@ -11,7 +11,7 @@ bundle exec jekyll serve --livereload
 
 ## 2) Open the local site in your browser
 
-- http://127.0.0.1:4000/Creality_CR6-SE+MAX_Printers/
+- http://127.0.0.1:4000/cr6community.github.io/
 
 ## If changes do not appear right away
 
