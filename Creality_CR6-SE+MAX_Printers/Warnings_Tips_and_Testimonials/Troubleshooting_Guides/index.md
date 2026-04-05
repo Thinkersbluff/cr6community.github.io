@@ -9,7 +9,6 @@ This page is the website entry point for troubleshooting resources.
 
 ## Additional Resources
 - [Troubleshooting tips (Creality, 2020, PDF)](Troubleshooting_Tips-Creality_2020_EN.pdf)
-- [A Creality CR6 Issues List (Sebazzz)](https://gist.github.com/Sebazzz/ff4d716c8d2ad9bab1e87b3fc4238281)
 - [CR6 Post Unboxing Guide (Sebazzz Gist)](https://gist.github.com/Sebazzz/030d21c606413e22cbd77d8df9fb8b17)
 
 ## More
