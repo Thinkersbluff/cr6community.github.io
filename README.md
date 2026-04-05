@@ -1,17 +1,22 @@
 # Creality CR-6 Community Knowledge Base
 
-Welcome to the CR-6 Community website &amp; knowledge base.
+Welcome to the CR-6 Community website &amp; knowledge base for all owners of new and used Creality CR6-SE + MAX Printers!
 
 ## Index
 
-* Parts
+* Warnings, Tips and Testimonials
+  * [Tips_For_Avoiding_or_Mitigating_Known_Issues](Creality_CR6-SE+MAX_Printers/Warnings_Tips_and_Testimonials/Tips_For_Avoiding_or_Mitigating_Known_Issues/)
+  
+* Firmware Info
   * [Fans](docs/fans.md)
   * [Power supply](docs/power-supply.md)
   * Screens
     * [Stock](docs/screen.md)
     * [Alternative](docs/screen-alternative.md)
-* [Files](files)
+  
+* Hardware Info
   * [Creality](files/creality)
   * [DWIN](files/datasheets)
   * [Datasheets](files/datasheets)
-* [Links](docs/links.md)
+    
+* [External Links](docs/links.md)
