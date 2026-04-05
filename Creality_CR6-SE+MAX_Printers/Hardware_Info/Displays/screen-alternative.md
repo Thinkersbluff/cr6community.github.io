@@ -33,12 +33,12 @@ Some links to sellers from AliExpress:
 * https://www.aliexpress.com/item/4000446127137.html
 * https://www.aliexpress.com/item/33037525947.html
 
-Note: to connect it to your printer, you will have to solder a JST-XH 2.54mm 6 pins male connector (see the "pictures" section).
+Note: to connect it to your printer, you will have to solder a JST-XH 2.54mm 6 pins male connector to the board, as shown here:
+![Connector](DMG48270C043_03W/connector.jpg)
 
-## Pictures
+## Other Pictures
 
-![Back](../files/dwin/screens/DMG48270C043_03W/back.jpg)
-![Front](../files/dwin/screens/DMG48270C043_03W/front.jpg)
-![Back](../files/dwin/screens/DMG48270C043_03W/connector.jpg)
-![Datasheet](../files/dwin/screens/DMG48270C043_03W/datasheet.jpg)
-![Datasheet](../files/dwin/screens/DMG48270C043_03W/packaging.jpg)
+![Back](DMG48270C043_03W/back.jpg)
+![Front](DMG48270C043_03W/front.jpg)
+![Datasheet](DMG48270C043_03W/datasheet.jpg)
+![Datasheet](DMG48270C043_03W/packaging.jpg)
