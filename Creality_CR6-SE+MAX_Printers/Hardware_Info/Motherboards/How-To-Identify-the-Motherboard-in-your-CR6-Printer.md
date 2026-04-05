@@ -44,3 +44,11 @@ pins_CREALITY_4.5.3.h reads: (same file apparently applies to the ERA board)
 * #define J2_PIN                              PB2
 * #define J3_PIN                              PA15
 * #define J4_PIN                              PB12
+
+## How do I replace my motherboard with something other than the above choices?
+
+We know that in 2026, it is extremely challenging to source a replacement CR6-compatible motherboard at a reasonable cost.
+If you decide to source an alternative board, you will need to research carefully how to make your own harnesses and a way to physically install the motherboard, possibly into its own box.
+
+We have this sketch of the pinouts of those cables at the motherboard, to support that research: 
+![Ribbon cable pinout]({{ "/Creality_CR6-SE+MAX_Printers/Hardware_Info/Motherboards/Ribbon_Cable_pinout.jpg" | relative_url }})
