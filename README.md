@@ -1,22 +1,11 @@
-# Creality CR-6 Community Knowledge Base
 
-Welcome to the CR-6 Community website &amp; knowledge base for all owners of new and used Creality CR6-SE + MAX Printers!
+Welcome to the website &amp; knowledge base for all owners of new and used 3D printers using the CR6Community Firmware!
 
-## Index
+Click this heading to enter the [Creality CR6-SE and MAX Printers knowledge base](Creality_CR6-SE+MAX_Printers)
 
-* Warnings, Tips and Testimonials
-  * [Tips_For_Avoiding_or_Mitigating_Known_Issues](Creality_CR6-SE+MAX_Printers/Warnings_Tips_and_Testimonials/Tips_For_Avoiding_or_Mitigating_Known_Issues/)
-  
-* Firmware Info
-  * [Fans](docs/fans.md)
-  * [Power supply](docs/power-supply.md)
-  * Screens
-    * [Stock](docs/screen.md)
-    * [Alternative](docs/screen-alternative.md)
-  
-* Hardware Info
-  * [Creality](files/creality)
-  * [DWIN](files/datasheets)
-  * [Datasheets](files/datasheets)
-    
-* [External Links](docs/links.md)
+---
+### _Note to Anycubic Vyper and other printers aside from the Creality CR6-SE or MAX:  
+- Truly sorry to disappoint you.
+- The first generation of CR6 Community Firmware developers clearly intended to support more than just the Creality CR6-SE and MAX printers with the Community Firmware, but the current generation of active Developer and Admin volunteers have no personal knowledge of those other machines and are therefore unable to extend this site with support for those machines.
+- If anyone qualified to offer such support would like to become a co-contributor to this site, please submit a PR or open a Discussion with your proposal.  - Thinkersbluff_
+---
