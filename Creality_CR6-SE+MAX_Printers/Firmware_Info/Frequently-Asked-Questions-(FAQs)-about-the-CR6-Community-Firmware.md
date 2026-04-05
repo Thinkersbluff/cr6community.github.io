@@ -16,9 +16,9 @@ As of today (4 April 2026), there is no ongoing effort to update the CR6Communit
 
 Version 6.1 of the CR6 Community Firmware is "frozen" at Marlin 2.0.8.1
 
-A version 6.2 of that Marlin-based firmware is available at this fork of the original project.  It is supported by a Python Configuration wizard and it incorporates a few minor edits into 6.1, but it is _definitely not_ updated to the full Marlin 2.0.9.1 release cited in the Configuration files: https://github.com/Thinkersbluff/CR6Community-Marlin_TB
+A version 6.2 of that Marlin-based firmware is available at this fork of the original project.  It is supported by a Python Configuration wizard and it incorporates a few minor edits into 6.1, but it is _definitely not_ updated to the full Marlin 2.0.9.1 release cited in the Configuration files: [https://github.com/Thinkersbluff/CR6Community-Marlin_TB](https://github.com/Thinkersbluff/CR6Community-Marlin_TB)
 
-A Klipper-based version of CR6Community Firmware is also available at this repository: https://github.com/Thinkersbluff/DGUS-Reloaded_for_CR6-Klipper_Component
+A Klipper-based version of CR6Community Firmware is also available at this repository: [https://github.com/Thinkersbluff/DGUS-Reloaded_for_CR6-Klipper_Component](https://github.com/Thinkersbluff/DGUS-Reloaded_for_CR6-Klipper_Component)
 
 The Klipper-based version continues to work with the latest version of Klipper3D. 
 
@@ -105,7 +105,7 @@ You can also try `CF[version]-cr6-se-v4.5.2-mb-no-watchdog-[date].zip` firmware,
 ***
 ## I would like to customize the Community Firmware configuration for my printer - How do I compile my own version?
 
-Our Dev @Sebazzz posted this online guide in his blog: https://damsteen.nl/blog/2021/01/08/how-to-compile-cr6community-marlin-with-vscode-platformio
+Our Dev @Sebazzz posted this online guide in his blog: [https://damsteen.nl/blog/2021/01/08/how-to-compile-cr6community-marlin-with-vscode-platformio] (https://damsteen.nl/blog/2021/01/08/how-to-compile-cr6community-marlin-with-vscode-platformio)
 
 
 **Please note**, that due to changes made to both Visual Studio Code and Platformio since that blog was posted:
