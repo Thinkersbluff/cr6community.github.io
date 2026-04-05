@@ -14,13 +14,11 @@ Please raise a New Issue on [the GitHub site hosting these pages](https://github
 
 You can find a dedicated Creality YouTube channel for CR6 tutorials here: 
 
-CR6-SE:
-https://youtube.com/playlist?list=PLW9O3eZmo5E0MNC0aF1G9qTn2cdG3jT_f&feature=shared
+[CR6-SE - Creality Customer Support Playlist](https://youtube.com/playlist?list=PLW9O3eZmo5E0MNC0aF1G9qTn2cdG3jT_f&feature=shared)
 
 And here:
 
-CR6-MAX:
-https://youtube.com/playlist?list=PLW9O3eZmo5E0NEHBB6Y-2oPaRRoq98YFM&feature=shared
+[CR6-MAX- Creality Customer Support Playlist](https://youtube.com/playlist?list=PLW9O3eZmo5E0NEHBB6Y-2oPaRRoq98YFM&feature=shared)
 
 ## Where's "the beef?"
 If you found this site but were looking for the actual Community firmware, you will find that in the [Releases section of the CR6 Community Firmware Repository](https://github.com/CR6Community/Marlin/releases).
