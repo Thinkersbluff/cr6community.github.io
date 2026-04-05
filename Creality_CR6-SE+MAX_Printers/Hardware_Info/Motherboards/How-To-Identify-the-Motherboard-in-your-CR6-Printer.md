@@ -51,4 +51,4 @@ We know that in 2026, it is extremely challenging to source a replacement CR6-co
 If you decide to source an alternative board, you will need to research carefully how to make your own harnesses and a way to physically install the motherboard, possibly into its own box.
 
 We have this sketch of the pinouts of those cables at the motherboard, to support that research: 
-![Ribbon cable pinout]({{ "/Creality_CR6-SE+MAX_Printers/Hardware_Info/Motherboards/Ribbon_Cable_pinout.jpg" | relative_url }})
+![Ribbon cable pinout](Ribbon_Cable_pinout.jpg)
