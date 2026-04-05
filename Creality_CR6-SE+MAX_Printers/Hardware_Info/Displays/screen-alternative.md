@@ -1,8 +1,8 @@
-# Alternative Screen
+# Alternative Compatible DWIN Screen
 
-As Creality and DWIN aren't very cooperative to give us some technical details about the printer screen, we searched for other compatible screens.
+Creality and DWIN were not very cooperative when we requested technical details about the stock CR6 printer display device, so we also searched for alternative compatible screens.
 
-Here's a working alternative: DWIN model DMG48270C043_03W
+Here is one working alternative that we identified: DWIN model DMG48270C043_03W
 
 ## Reference details
 
@@ -23,7 +23,7 @@ Here's a working alternative: DWIN model DMG48270C043_03W
     
 ## Shopping
 
-When this note was written, it was sold around 20€, shipping included.
+When this note was written (2020), it sold for around 20€, shipping included.
 
 Some links to sellers from AliExpress:
 
